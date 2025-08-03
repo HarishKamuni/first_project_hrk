@@ -1,4 +1,7 @@
-# React + Vite
+# First Project
+Counter App
+In this application, we build two buttons. One button for increase the count and second button for decrease the count. For increasing/decreasing the count, 
+means for state manuplation we use useState hook in React.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
